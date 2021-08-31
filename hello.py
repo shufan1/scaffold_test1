@@ -2,7 +2,7 @@ def add(x, y):
     return x + y
 
 # make something wrong
-var = 
+#var = 
 # x = 1
 # y = 2
 result = add(1, 2)
