@@ -1,9 +1,9 @@
-def add(x, y):
-    return x + y
+def toyou(x):
+    return f"hi {x}"
 
-# make something wrong
-#var = 
-# x = 1
-# y = 2
-result = add(1, 2)
-print(f"This is the sum: {1},{2}, {result}")
+def add(x):
+    return x + 1
+
+def subtract(x):
+    return x - 1
+    
